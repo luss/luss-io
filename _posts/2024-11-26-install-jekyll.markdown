@@ -5,7 +5,7 @@ date:   2024-11-26 12:26:00 -0500
 categories: linux
 ---
 
-![ruby-jekyll](/img/ruby-jekyll.jpg)
+![ruby-jekyll](/img/ruby-jekyll.png)
 
 {% highlight bash %}
 sudo apt-get install ruby-full build-essential zlib1g-dev
