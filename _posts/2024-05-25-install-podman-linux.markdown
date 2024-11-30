@@ -20,3 +20,5 @@ or
 {% highlight bash %}
 apt install podman podman-compose
 {% endhighlight %}
+
+The new [Podman Desktop](https://podman-desktop.io/) is pretty kewl also.
