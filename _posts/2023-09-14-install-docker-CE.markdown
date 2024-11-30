@@ -5,7 +5,7 @@ date:   2023-09-14 00:00:00 -0500
 categories: linux
 ---
 
-![install-docker-ce](/img/install-docker-ce.jpg)
+![docker-ce](/img/docker-ce.jpg)
 
 {% highlight bash %}
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
