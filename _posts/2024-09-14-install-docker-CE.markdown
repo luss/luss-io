@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Installing Docker CE"
-date:   2023-09-14 00:00:00 -0500
+title:  "Installing Docker CE on EL & Ubuntu"
+date:   2024-09-14 00:00:00 -0500
 categories: linux
 ---
 
 ![docker-ce](/img/docker-ce.jpg)
 
+
+on EL based systems:
 {% highlight bash %}
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
@@ -17,6 +19,7 @@ sudo systemctl start docker
 sudo usermod -aG docker $USER
 {% endhighlight %}
 
+on Debian/Ubuntu based systems:
 {% highlight bash %}
 sudo apt-get -y update
 sudo apt-get install -y ca-certificates curl

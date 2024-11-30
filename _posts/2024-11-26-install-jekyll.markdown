@@ -7,7 +7,7 @@ categories: linux
 
 ![ruby-jekyll](/img/ruby-jekyll.png)
 
-I'm starting with using Jekyll and it's default Minima Theme for this blog site:
+I'm using Jekyll and it's default Minima Theme for this blog site to KeepItSimple:
 
 {% highlight bash %}
 sudo apt-get install ruby-full build-essential zlib1g-dev
