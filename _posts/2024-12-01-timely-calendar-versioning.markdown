@@ -7,6 +7,7 @@ categories: linux
 
 ![calver](/img/calver.jpg)
 
-*[CalVer](https://calver.org) is a versioning convention based on your project's release calendar, instead of SemVer's arbitrary numbers.*
-
-As an example, Ubuntu uses a short year and zero padded month for it's main version susch as *24.04*
+[CalVer](https://calver.org) is a versioning convention based on your project's release calendar, 
+instead of [SemVer's](https://semver.org) arbitrary numbers.  As an example, Ubuntu uses a short 
+year and a zero padded month for it's main version ala *24.04* is their latests LTS release 
+from April of 2024.

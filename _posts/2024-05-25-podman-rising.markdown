@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Install Podman"
+title:  "Podman Rising"
 date:   2024-05-25 12:00:00 -0500
 categories: linux
 ---
