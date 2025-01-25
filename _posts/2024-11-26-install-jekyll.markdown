@@ -19,8 +19,5 @@ source ~/.bashrc
 
 gem install jekyll bundler
 
-## necessary for using MINIMA
-gem install minima jekyll-feed addressable i18n webrick jekyll-seo-tag public_suffix concurrent-ruby bigdecimal rake
-
 {% endhighlight %}
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Install Debian 12 Postgres Development Environment"
-date:   2024-12-02 00:00:00 -0500
-categories: linux
+title:  "Quiet Jekyll Minima Build Warnings"
+date:   2025-01-25 00:00:00 -0500
+categories: jekyll, linux
 ---
 
-![Debian](/img/debian.jpg)
+![Minima](/img/jekyll-minima.jpg)
 
 {% highlight bash %}
 export apt="sudo apt install -y"
@@ -19,4 +19,3 @@ $apt libreadline-dev libssl-dev uuid-dev libipc-run-perl
 $apt libclang-dev libopenblas-dev libz-dev tzdata lld llvm-dev
 $apt libxgboost-dev cmake
 {% endhighlight %}
-

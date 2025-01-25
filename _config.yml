@@ -15,6 +15,8 @@ whatsapp_username: 9733092230
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  quiet_deps: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
