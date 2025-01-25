@@ -1,3 +1,3 @@
 # luss-io
 
-My Jekyll blog at [LUSS.IO](http://luss.io)
+My Jekyll blog at [LUSSIER.IO](http://lussier.io)
