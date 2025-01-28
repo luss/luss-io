@@ -5,7 +5,7 @@ date:   2024-11-26 12:26:00 -0500
 categories: linux
 ---
 
-![ruby-jekyll](/img/ruby-jekyll.png)
+![ruby-jekyll](/img/jekyll.jpg)
 
 I'm using Jekyll and it's default Minima Theme for this blog site to KeepItSimple:
 
